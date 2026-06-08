@@ -43,7 +43,7 @@ Before running PassAnalyzer, ensure you have:
 # INSTALLATION
 
 1. Clone the repository:  
-   git clone https://github.com/
+   git clone https://github.com/m0vad0/PassAnalyzer.git
 2. Verify that Python 3.13.12 is installed  
    python3 --version
 3. Verify RockYou wordlist exists:  
